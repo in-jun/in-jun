@@ -2,7 +2,7 @@
 <h1>"Hello, World!"</h1>
 
 ![](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dlswns)
-![](https://github-readme-activity-graph.vercel.app/graph?username=in-jun&theme=high-contrast)
+![](https://github-readme-activity-graph.vercel.app/graph?username=in-jun&theme=high-contrast&height=250)
 
 #
 
