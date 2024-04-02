@@ -6,6 +6,7 @@
   <p>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" alt="VS Code Badge"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" alt="Linux Badge"/>
+    <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=dlswns" alt="Solved.ac Profile">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fin-jun&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=in-jun&edge_flat=true" alt="Profile Hits Badge"/>
   </p>
 
