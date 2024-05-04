@@ -33,6 +33,6 @@ Hi there! I'm injun, a passionate programmer aspiring to become a backend develo
 <details>
   <summary>Comments</summary>
 
-[![Comments](https://comment.injunweb.com/api/user/in-jun/svg)](https://comment.injunweb.com/in-jun)
+[![Comments](https://comment.injunweb.com/api/user/in-jun/svg?theme=black)](https://comment.injunweb.com/in-jun)
 
 </details>
