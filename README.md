@@ -36,7 +36,7 @@ I strive to give my best with a strong sense of responsibility and a spirit of c
 ##
 
 <details>
-  <summary>Comments / 댓글</summary>
+  <summary><strong>Comments / 댓글 +</strong></summary>
 
 [![Comments / 댓글](https://comment.injunweb.com/api/user/in-jun/svg?theme=black)](https://comment.injunweb.com/in-jun)
 
