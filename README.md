@@ -3,7 +3,6 @@
 # "Hello, World!"
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=in-jun&theme=high-contrast&height=250)
-ㅁㄴㅇㄹㄴㅇㄹ
 [![VS Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)](https://code.visualstudio.com/)
 [![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)](https://www.linux.org/)
 [![Solved.ac Profile](https://mazassumnida.wtf/api/mini/generate_badge?boj=dlswns)](https://solved.ac/profile/dlswns)
