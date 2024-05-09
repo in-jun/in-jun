@@ -19,12 +19,12 @@ Hi there! I'm injun, a passionate programmer aspiring to become a backend develo
 
 -   Favorite Programming Languages:
     -   Go
-    -   JavaScript
+    -   Java
     -   C
     -   C++
+    -   JavaScript
 -   Currently Learning:
     -   Rust
-    -   Java
     -   Concurrent Programming
     -   Algorithms
 
