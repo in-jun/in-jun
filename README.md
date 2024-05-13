@@ -18,6 +18,16 @@
 Hello, I'm Injun Hwang, currently exploring the field of backend development.<br>
 I strive to give my best with a strong sense of responsibility and a spirit of challenge.<br>
 
+<details>
+  <summary><strong>Links / 링크</strong></summary>
+
+-   [InjunWeb](https://injunweb.com)
+-   [LinkedIn](https://www.linkedin.com/in/in-jun)
+-   [Blog](https://blog.injunweb.com)
+-   [Solved.ac Profile](https://solved.ac/profile/dlswns)
+
+</details>
+
 ## My Interests / 관심사
 
 -   Favorite Programming Languages / 좋아하는 프로그래밍 언어:
@@ -41,10 +51,3 @@ I strive to give my best with a strong sense of responsibility and a spirit of c
 [![Comments / 댓글](https://comment.injunweb.com/api/user/in-jun/svg?theme=black)](https://comment.injunweb.com/in-jun)
 
 </details>
-
-### Links / 링크
-
--   [InjunWeb](https://injunweb.com)
--   [LinkedIn](https://www.linkedin.com/in/in-jun)
--   [Blog](https://blog.injunweb.com)
--   [Solved.ac Profile](https://solved.ac/profile/dlswns)
