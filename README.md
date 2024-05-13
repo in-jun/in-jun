@@ -41,3 +41,10 @@ I strive to give my best with a strong sense of responsibility and a spirit of c
 [![Comments / 댓글](https://comment.injunweb.com/api/user/in-jun/svg?theme=black)](https://comment.injunweb.com/in-jun)
 
 </details>
+
+### Links / 링크
+
+-   [InjunWeb](https://injunweb.com)
+-   [LinkedIn](https://www.linkedin.com/in/in-jun)
+-   [Blog](https://blog.injunweb.com)
+-   [Solved.ac Profile](https://solved.ac/profile/dlswns)
