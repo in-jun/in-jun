@@ -28,21 +28,6 @@ I strive to give my best with a strong sense of responsibility and a spirit of c
 
 </details>
 
-## My Interests / 관심사
-
--   Favorite Programming Languages / 좋아하는 프로그래밍 언어:
-    -   Go
-    -   Java
-    -   C
-    -   C++
-    -   JavaScript
--   Currently Learning / 현재 학습 중인 내용:
-    -   Database
-    -   Spring Boot
-    -   Rust
-    -   Algorithms
-    -   Concurrent Programming
-
 ##
 
 <details>
