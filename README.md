@@ -33,16 +33,6 @@ I am committed to my work with a strong sense of responsibility and a spirit of 
 안녕하세요, devops 분야를 탐구 중인 황인준입니다.<br>
 항상 책임감과 도전 정신을 가지고 매진하여 최선을 다하겠습니다.<br>
 
-<details>
-  <summary><strong>Links / 링크</strong></summary>
-
-- [InjunWeb](https://injunweb.com)
-- [LinkedIn](https://www.linkedin.com/in/in-jun)
-- [Blog](https://blog.injunweb.com)
-- [Solved.ac Profile](https://solved.ac/profile/dlswns)
-
-</details>
-
 ##
 
 <details>
