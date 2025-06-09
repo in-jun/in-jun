@@ -37,6 +37,6 @@ I am committed to my work with a strong sense of responsibility and a spirit of 
 <details>
   <summary><strong>Comments / 댓글 +</strong></summary>
 
-[![Comments / 댓글](https://comment.injunweb.com/api/user/in-jun/svg?theme=black)](https://comment.injunweb.com/in-jun)
+[![Comments / 댓글](https://github-comment.injun.dev/api/user/in-jun/svg?theme=black)](https://github-comment.injun.dev/in-jun)
 
 </details>
