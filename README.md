@@ -26,11 +26,11 @@
 
 ## About Me / 자기 소개
 
-Hello, I'm Injun Hwang, currently exploring the field of DevOps.<br>
-I am committed to my work with a strong sense of responsibility and a spirit of challenge.<br>
+Hello, I'm Injun Hwang, exploring the field of DevOps.<br>
+I always do my best based on a sense of responsibility and a spirit of challenge.<br>
 
-안녕하세요, devops 분야를 탐구 중인 황인준입니다.<br>
-항상 책임감과 도전 정신을 가지고 매진하여 최선을 다하겠습니다.<br>
+안녕하세요, DevOps 분야를 탐구하고 있는 황인준입니다.<br>
+책임감과 도전 정신을 바탕으로 항상 최선을 다합니다.<br>
 
 ##
 
