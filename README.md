@@ -6,7 +6,7 @@ DevOps 분야를 탐구하고 있는 황인준입니다.<br>
 
 
 <details>
-  <summary>comments</summary>
+  <summary>guestbook</summary>
   
 [![Comments](https://github-comment.injun.dev/api/user/in-jun/svg)](https://github-comment.injun.dev/in-jun)
 
