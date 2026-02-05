@@ -8,6 +8,6 @@ DevOps 분야를 탐구하고 있는 황인준입니다.<br>
 <details>
   <summary>comments</summary>
   
-[![Comments](https://github-comment.injun.dev/api/user/in-jun/svg?theme=black)](https://github-comment.injun.dev/in-jun)
+[![Comments](https://github-comment.injun.dev/api/user/in-jun/svg)](https://github-comment.injun.dev/in-jun)
 
 </details>
