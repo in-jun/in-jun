@@ -1,5 +1,4 @@
-
-책임감과 도전 정신을 바탕으로 항상 최선을 다합니다.<br>
+안녕하세요! 반갑습니다.<br>
 
 [![Solved.ac Profile](https://mazassumnida.wtf/api/mini/generate_badge?boj=dlswns)](https://solved.ac/profile/dlswns)
 
